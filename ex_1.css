@@ -1,0 +1,229 @@
+/* html{
+    background: darkorchid;
+    background: darkblue;
+    height: 100%;
+    width: 50%;
+} */
+
+.amenamec{
+    display: flex;
+}
+
+.kaput{
+    background: darkblue;
+    height: 561px;
+    width: 40%;
+    margin-top: auto;
+    padding-top: 80px;
+}
+
+.yellow{
+    border: 10px solid gold;
+    height: 100px;
+    width: 100px;
+    margin-left: 500px;
+    margin-top: 70px;
+    color: white;
+    font-size: 1px;
+}
+
+.purple{
+    border: 10px solid indigo;
+    height: 60px;
+    width: 60px;
+    margin-left: 50px;
+    margin-top: 300px;
+    color: white;
+    font-size: 1px;
+}
+
+.aqua{
+    border: 10px solid aqua;
+    height: 40px;
+    width: 40px;
+    margin-top: 400px;
+    margin-right: 20px;
+    color: white;
+    font-size: 1px;
+}
+
+.zero{
+    font-size: 1px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: 77%;
+    margin-bottom: 950%;
+    background-image: url("300x300.jpeg");
+    height: 400px;
+    width: 340px;
+}
+
+.mek{
+    margin-top: 8%;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+    height: 340px;
+    width: 280px;
+    background-color: white;
+}
+
+.Login_Form{
+    height: 50px;
+    padding: 10px;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    background-color: whitesmoke;
+}
+
+.log{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    margin-left: 65px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.sign_in{
+    display: flex;
+    width: 210px;
+    height: 30px;
+    margin-left: 33px;
+    margin-top: 30px;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+}
+
+.sign{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-image: url("300x300.jpeg");
+    color: white;
+    border: none;
+    border-top-right-radius:4px;
+    border-bottom-right-radius:4px;
+    margin-left: 2px;
+    width: 205px;
+    height: 30px;
+}
+
+.sign:hover{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background: gold;
+    color: black;
+    border: none;
+    transition: all 500ms ease;
+    border-top-right-radius:4px;
+    border-bottom-right-radius:4px;
+    margin-left: 2px;
+    width: 205px;
+    height: 30px;
+}
+
+.image{
+    border-top-left-radius:4px;
+    border-bottom-left-radius:4px;
+}
+
+.or{
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    margin-left: 130px;
+    font-weight: bold;
+}
+
+.login{
+    display: flexbox;
+    height: 30px;
+    width: 80px;   
+}
+
+.username{
+    display: flex;
+    margin-left: 33px;
+    margin-bottom: 5px;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+}
+
+.user{
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+    height: 30px;
+    margin-right: 2px;
+}
+
+.button{
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    background-color: whitesmoke;
+    border-top-right-radius:4px;
+    border-bottom-right-radius:4px;
+    font-weight: bold;
+}
+
+.password{
+    display: flex;
+    margin-left: 33px;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+}
+
+.pass{
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+    width: 33px;
+    margin-right: 2px;
+}
+
+.Log_in{
+    height: 30px;
+    width: 208px;
+    margin-left: 33px;
+    margin-top: 35px;
+}
+
+.login_button{
+    font-family: 'Poppins', sans-serif;
+    height: 30px;
+    width: 208px;
+    background: #515151;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+}
+
+.login_button:hover{
+    font-family: 'Poppins', sans-serif;
+    transition: all 500ms ease;
+    border: none;
+    height: 30px;
+    width: 208px;
+    background: gold;
+    color: black;
+    font-weight: bold;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+}
